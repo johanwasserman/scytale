@@ -1,0 +1,18 @@
+{
+    "full_name": "Scytale-exercise/Scytale_repo",
+    "name": "Scytale_repo",
+    "id": 724133322,
+    "owner": "Scytale-exercise",
+    "pull_requests": [
+        {
+            "title": "Open PR",
+            "state": "open",
+            "created_at": "2023-11-27 14:10:02",
+            "updated_at": "2023-11-27 14:10:02",
+            "closed_at": null,
+            "merged_at": null,
+            "base_branch": "main",
+            "head_branch": "aviyashar-patch-1"
+        }
+    ]
+}
