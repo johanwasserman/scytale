@@ -29,7 +29,7 @@ All data and logs have been committed to GitHub for convenience and to facilitat
 ### Environment Setup
 
 - Python 3.11 virtual environment was used.
-- Ensure Python and PySpark are installed and configured.
+- Ensure Python and Spark are installed and configured.
 - Install necessary Python libraries (`PyGithub`, `pyspark`, `PyYAML`) using `pip`.
 - Additional libraries (`pandas`, `pyarrow`) are installed for the `ReadParquetData.ipynb` notebook using `pip`.
 
